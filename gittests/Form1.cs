@@ -16,5 +16,10 @@ namespace gittests
         {
             InitializeComponent();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            textBox2.Text = "ej mājās";
+        }
     }
 }
